@@ -1,2 +1,1 @@
-console.log('example CI/CD'
-            kn
+console.log('example CI/CD 2')
