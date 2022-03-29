@@ -1,1 +1,1 @@
-console.log('example CI/CD 2')
+console.log('example CI/CD PR');
