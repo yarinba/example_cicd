@@ -1,0 +1,26 @@
+{
+  "name": "example-cidi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All test good\"",
+    "start": "node index.js",
+    "lint": "./node_modules/.bin/eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarinba/example_cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarinba/example_cicd/issues"
+  },
+  "homepage": "https://github.com/yarinba/example_cicd#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "mocha": "^9.2.2"
+  }
+}
